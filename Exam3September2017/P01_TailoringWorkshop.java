@@ -1,5 +1,3 @@
-package Exam3September2017;
-
 import java.util.Scanner;
 
 public class P01_TailoringWorkshop {
