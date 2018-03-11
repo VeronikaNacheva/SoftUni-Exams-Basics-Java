@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class P05_ChristmasSock {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

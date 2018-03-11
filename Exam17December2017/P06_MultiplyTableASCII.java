@@ -1,5 +1,3 @@
-package Exam17December2017;
-
 import java.util.Scanner;
 
 public class P06_MultiplyTableASCII {
